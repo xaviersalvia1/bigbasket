@@ -6,7 +6,7 @@ import Navbar from './Components/Navbar';
 function App() {
   return (
     <div className="App">
-     <h1>hwllo world</h1>
+     <h1></h1>
      <Home/>
      <Navbar/>
     </div>
